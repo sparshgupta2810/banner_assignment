@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Ad Title 1",
+      "description": "Description for ad 1",
+      "cta": "Click Here",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 2",
+      "description": "Description for ad 2",
+      "cta": "Learn More",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 3",
+      "description": "Description for ad 3",
+      "cta": "Click Here",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 4",
+      "description": "Description for ad 4",
+      "cta": "Learn More",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 5",
+      "description": "Description for ad 5",
+      "cta": "Click Here",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 6",
+      "description": "Description for ad 6",
+      "cta": "Learn More",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 7",
+      "description": "Description for ad 7",
+      "cta": "Click Here",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+      "title": "Ad Title 8",
+      "description": "Description for ad 8",
+      "cta": "Learn More",
+      "image": "https://cubanvr.com/wp-content/uploads/2023/07/ai-image-generators.webp",
+      "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    }
+  ]
+  
